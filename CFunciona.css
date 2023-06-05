@@ -1,0 +1,36 @@
+
+.nav {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 45px;
+    height: 80px;
+    opacity: 0.9;
+    border-style: solid;
+}
+
+li{
+    position: relative;
+    bottom: -18px;
+}
+.nav-link {
+    color: rgb(0, 0, 0) !important;
+}
+
+img {
+    position: relative;
+    left: -112px;
+}
+
+.navbar-nav .nav-link {
+    display: flex;
+    align-items: center;
+  }
+
+  .navbar-nav .nav-link .icon {
+    margin-right: 5px;
+  }
+
+.selects{
+    border: none;
+}
+
